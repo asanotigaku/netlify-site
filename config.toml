@@ -2,3 +2,14 @@ baseURL = "https://asanotigaku.tk/"
 languageCode = "ja"
 theme = "gohugo-theme-ananke"
 title = "Asano Earth Science Club"
+
+DefaultContentLanguage = "ja"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  description = "Asano Earth Science Club"
+  twitter = "https://twitter.com/asanotigaku"
+  youtube = "https://www.youtube.com/channel/UCcHyB2J7TzR-o_maxhS3nMA"
+  background_color_class = "bg-black"
+  featured_image = "/images/uploads/1500x500.jpg"
