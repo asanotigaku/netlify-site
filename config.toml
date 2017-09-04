@@ -1,0 +1,4 @@
+baseURL = "http://asanotigaku.netlify.com/"
+languageCode = "ja"
+theme = "gohugo-theme-ananke"
+title = "Asano Earth Science Club"
