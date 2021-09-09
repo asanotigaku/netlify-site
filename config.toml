@@ -1,4 +1,4 @@
-baseURL = "http://asanotigaku.netlify.com/"
+baseURL = "https://asanotigaku.netlify.app/"
 languageCode = "ja"
 theme = "gohugo-theme-ananke"
 title = "Asano Earth Science Club"
